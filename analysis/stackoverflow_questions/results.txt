@@ -1,0 +1,12 @@
+Analysis: Count of Stack Overflow Questions
+Dataset: bigquery-public-data.stackoverflow.posts_questions
+Date: 2026-06-27
+
+Result:
++-----------------+
+| total_questions |
++-----------------+
+|        23020127 |
++-----------------+
+
+Total questions in the Stack Overflow public dataset: 23,020,127
